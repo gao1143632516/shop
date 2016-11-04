@@ -1,6 +1,6 @@
 {
-  "name": "Shop",
-  "tagline": "还好",
-  "body": "### sfdsf### > > ****是飞洒发****\r\nWe’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.\r\n\r\n### Creating pages manually\r\nIf you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.\r\n\r\n### Authors and Contributors\r\nYou can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "name": "齐占成",
+  "tagline": "福利",
+  "body": "<h1>送福利了占城兄</h1>\r\n\r\n***\r\n<p>敲了一天的代码了，是不是很累呢</p>\r\n<h5>送你一个美女放松放松</h5>\r\n![](http://c.hiphotos.baidu.com/image/h%3D360/sign=3a6367dc229759ee555066cd82fa434e/0dd7912397dda1449fad6f63b6b7d0a20df486be.jpg)\r\n\r\n***\r\n<h2>明天五杀</h2>\r\n<p>德玛西亚保佑你</p>\r\n![](http://img1.imgtn.bdimg.com/it/u=1746208124,1157046131&fm=21&gp=0.jpg)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
